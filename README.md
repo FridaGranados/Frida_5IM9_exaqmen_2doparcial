@@ -1,0 +1,2 @@
+# Frida_5IM9_exaqmen_2doparcial
+examen
